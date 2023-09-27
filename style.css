@@ -1,0 +1,67 @@
+body {
+ background: rgb(2,0,36);
+background: -moz-linear-gradient(93deg, rgba(2,0,36,1) 0%, rgba(20,184,251,1) 0%, rgba(0,245,255,1) 26%, rgba(8,169,235,1) 65%, rgba(39,110,208,1) 89%);
+background: -webkit-linear-gradient(93deg, rgba(2,0,36,1) 0%, rgba(20,184,251,1) 0%, rgba(0,245,255,1) 26%, rgba(8,169,235,1) 65%, rgba(39,110,208,1) 89%);
+background: linear-gradient(93deg, rgba(2,0,36,1) 0%, rgba(20,184,251,1) 0%, rgba(0,245,255,1) 26%, rgba(8,169,235,1) 65%, rgba(39,110,208,1) 89%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#276ed0",GradientType=1); 
+}
+h1 {
+font-family: "Arial Black", Gadget, sans-serif;
+font-size: 40px;
+letter-spacing: -1.2px;
+word-spacing: 0.4px;
+color: #FFFFFF;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+
+h5 {
+font-family: "Arial Black", Gadget, sans-serif;
+font-size: 20px;
+letter-spacing: -1.2px;
+word-spacing: 0.4px;
+color: #FFFFFF;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+
+#buttontext {
+  background-color: #188ff0;
+  border: none;
+  color: white;
+  padding: 5px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#buttontext:hover {
+  background-color: #334fcd;
+}
+#buttontext:active {
+  background-color: #3359cd;
+}
+
+hr{
+        height: 4px;
+        background-color: #3464eb;
+        border: none;
+    }
+
+input[type=text] {
+  width: 60%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px #fc03d3;
+  border-radius: 4px;
+  background-color: #a7fafa;
+  transition: width 0.4s ease-in-out;
+}
