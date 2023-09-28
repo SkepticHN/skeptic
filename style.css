@@ -1,10 +1,4 @@
-body {
- background: rgb(2,0,36);
-background: -moz-linear-gradient(93deg, rgba(2,0,36,1) 0%, rgba(20,184,251,1) 0%, rgba(0,245,255,1) 26%, rgba(8,169,235,1) 65%, rgba(39,110,208,1) 89%);
-background: -webkit-linear-gradient(93deg, rgba(2,0,36,1) 0%, rgba(20,184,251,1) 0%, rgba(0,245,255,1) 26%, rgba(8,169,235,1) 65%, rgba(39,110,208,1) 89%);
-background: linear-gradient(93deg, rgba(2,0,36,1) 0%, rgba(20,184,251,1) 0%, rgba(0,245,255,1) 26%, rgba(8,169,235,1) 65%, rgba(39,110,208,1) 89%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#276ed0",GradientType=1); 
-}
+
 h1 {
 font-family: "Arial Black", Gadget, sans-serif;
 font-size: 40px;
